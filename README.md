@@ -1,2 +1,9 @@
 ### JavaScript 
 - [Accessing-Arguments-To-A-Function](JavaScript/arguments/Accessing-Arguments-To-A-Function%20.md)
+- [Primitive-Type](interview/primitive-type.js)
+- [Object-Type](interview/object-type.js)
+- [Typeof-VS-Instanceof](interview/type-vs-instanceof.js)
+- [Type-Conversion](interview/typeof-vs-instanceof.js)
+- [Object-To-Primitive](interview/object-to-primitive.js)
+- [Operator](interview/operator.js)
+- [Compare-Operator](interview/compare-operator.js)
